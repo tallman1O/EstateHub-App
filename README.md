@@ -7,7 +7,7 @@ Here’s a revised version of the README with icons at the top:
 <p align="center">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="70" height="70" style="margin: 10px;"/>
   <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo" width="70" height="70" style="margin: 10px;"/>
-  <img src="https://appwrite.io/images-ee/press/logo-pink.svg" alt="Appwrite Logo" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
 </p>
 
 **EstateHub** is a mobile application built using React Native and Expo, designed to make real estate browsing and purchasing easier than ever. The app allows users to view detailed property listings, search for properties, and connect with sellers directly.  
