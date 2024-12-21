@@ -1,50 +1,74 @@
-# Welcome to your Expo app 👋
+Here’s a revised version of the README with icons at the top:  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+# EstateHub - Real Estate App  
 
-1. Install dependencies
+<p align="center">
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native Logo" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" alt="Expo Logo" width="70" height="70" style="margin: 10px;"/>
+  <img src="https://appwrite.io/images-ee/press/logo-pink.svg" alt="Appwrite Logo" width="70" height="70" style="margin: 10px;"/>
+</p>
 
-   ```bash
-   npm install
-   ```
+**EstateHub** is a mobile application built using React Native and Expo, designed to make real estate browsing and purchasing easier than ever. The app allows users to view detailed property listings, search for properties, and connect with sellers directly.  
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## 🚀 Features  
+- **Property Listings**: Browse through a curated list of real estate properties.  
+- **Search and Filter**: Find properties based on location, price range, property type, and more.  
+- **Property Details**: View detailed information, including images, price, description, and seller information.  
+- **Contact Sellers**: Directly contact property sellers from the app.  
+- **Favorites**: Save properties you love for easy access later.  
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack  
+- **Frontend**: React Native  
+- **Framework**: Expo  
+- **Backend**: Appwrite   
+- **Database**: Appwrite  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🔧 Installation and Setup  
+1. **Clone the repository**:  
+   ```bash  
+   git clone <url>
+   cd estatehub  
+   ```  
+2. **Install dependencies**:  
+   ```bash  
+   npm install  
+   ```  
+3. **Start the Expo server**:  
+   ```bash  
+   npx expo start  
+   ```  
+4. **Run on your device**:  
+   - Install the Expo Go app on your Android/iOS device.  
+   - Scan the QR code displayed in your terminal or Expo web interface.  
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## 🌟 Future Enhancements  
+- Advanced search with more filters.  
+- User profiles with property management features.  
+- Secure payment gateway integration.  
+- Push notifications for updates and offers.  
+- Multi-language support.  
 
-When you're ready, run:
+## 🤝 Contributing  
+Contributions are welcome!  
+1. Fork the project.  
+2. Create a new feature branch: `git checkout -b feature-name`.  
+3. Commit your changes: `git commit -m 'Add some feature'`.  
+4. Push to the branch: `git push origin feature-name`.  
+5. Submit a pull request.  
 
-```bash
-npm run reset-project
-```
+## 📄 License  
+This project is licensed under the MIT License.  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 👨‍💻 Author  
+- **Mehul**  
 
-## Learn more
+Feel free to reach out with feedback or ideas to improve **EstateHub**!  
 
-To learn more about developing your project with Expo, look at the following resources:
+---  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Let me know if you'd like any tweaks!
